@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+vRGPJLM7U2f0/dCSMbEmduRCVW4VDKOhRmDvO6j3n3GRyLsIuaoPF7rUo8/Yc1EKTxz63LxvgZafr6z0DqkiQ==",
+  "success": true,
+  "projectFilePath": "/root/jenkins/Jenkins_exp/jenkins-plugin-model/src/Pi.Math/Pi.Math.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/root/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/root/.nuget/packages/prometheus-net/3.4.0/prometheus-net.3.4.0.nupkg.sha512",
+    "/root/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

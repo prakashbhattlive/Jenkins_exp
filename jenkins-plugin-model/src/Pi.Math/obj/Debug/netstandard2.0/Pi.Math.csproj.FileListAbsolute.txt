@@ -1,0 +1,10 @@
+/root/jenkins/Jenkins_exp/jenkins-plugin-model/src/Pi.Math/bin/Debug/netstandard2.0/Pi.Math.deps.json
+/root/jenkins/Jenkins_exp/jenkins-plugin-model/src/Pi.Math/bin/Debug/netstandard2.0/Pi.Math.dll
+/root/jenkins/Jenkins_exp/jenkins-plugin-model/src/Pi.Math/bin/Debug/netstandard2.0/Pi.Math.pdb
+/root/jenkins/Jenkins_exp/jenkins-plugin-model/src/Pi.Math/obj/Debug/netstandard2.0/Pi.Math.csproj.AssemblyReference.cache
+/root/jenkins/Jenkins_exp/jenkins-plugin-model/src/Pi.Math/obj/Debug/netstandard2.0/Pi.Math.GeneratedMSBuildEditorConfig.editorconfig
+/root/jenkins/Jenkins_exp/jenkins-plugin-model/src/Pi.Math/obj/Debug/netstandard2.0/Pi.Math.AssemblyInfoInputs.cache
+/root/jenkins/Jenkins_exp/jenkins-plugin-model/src/Pi.Math/obj/Debug/netstandard2.0/Pi.Math.AssemblyInfo.cs
+/root/jenkins/Jenkins_exp/jenkins-plugin-model/src/Pi.Math/obj/Debug/netstandard2.0/Pi.Math.csproj.CoreCompileInputs.cache
+/root/jenkins/Jenkins_exp/jenkins-plugin-model/src/Pi.Math/obj/Debug/netstandard2.0/Pi.Math.dll
+/root/jenkins/Jenkins_exp/jenkins-plugin-model/src/Pi.Math/obj/Debug/netstandard2.0/Pi.Math.pdb

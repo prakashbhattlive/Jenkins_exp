@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NH8x4zPn5S2KBHoAKm5vm1hJqfU2BprRvI66vcds92qagLGra3etSnCQBHg4AmmIoqSOTYPZLCka1GMbZr9yrA==",
+  "success": true,
+  "projectFilePath": "/root/jenkins/Jenkins_exp/jenkins-plugin-model/src/Pi.Runtime/Pi.Runtime.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/root/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/root/.nuget/packages/powerargs/3.6.0/powerargs.3.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+/root/jenkins/Jenkins_exp/jenkins-plugin-model/src/Pi.Runtime/bin/Debug/netstandard2.0/Pi.Runtime.deps.json
+/root/jenkins/Jenkins_exp/jenkins-plugin-model/src/Pi.Runtime/bin/Debug/netstandard2.0/Pi.Runtime.dll
+/root/jenkins/Jenkins_exp/jenkins-plugin-model/src/Pi.Runtime/bin/Debug/netstandard2.0/Pi.Runtime.pdb
+/root/jenkins/Jenkins_exp/jenkins-plugin-model/src/Pi.Runtime/obj/Debug/netstandard2.0/Pi.Runtime.csproj.AssemblyReference.cache
+/root/jenkins/Jenkins_exp/jenkins-plugin-model/src/Pi.Runtime/obj/Debug/netstandard2.0/Pi.Runtime.GeneratedMSBuildEditorConfig.editorconfig
+/root/jenkins/Jenkins_exp/jenkins-plugin-model/src/Pi.Runtime/obj/Debug/netstandard2.0/Pi.Runtime.AssemblyInfoInputs.cache
+/root/jenkins/Jenkins_exp/jenkins-plugin-model/src/Pi.Runtime/obj/Debug/netstandard2.0/Pi.Runtime.AssemblyInfo.cs
+/root/jenkins/Jenkins_exp/jenkins-plugin-model/src/Pi.Runtime/obj/Debug/netstandard2.0/Pi.Runtime.csproj.CoreCompileInputs.cache
+/root/jenkins/Jenkins_exp/jenkins-plugin-model/src/Pi.Runtime/obj/Debug/netstandard2.0/Pi.Runtime.dll
+/root/jenkins/Jenkins_exp/jenkins-plugin-model/src/Pi.Runtime/obj/Debug/netstandard2.0/Pi.Runtime.pdb
